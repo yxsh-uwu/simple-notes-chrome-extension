@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Notes",
+    "version": "1.0",
+    "description": "Add, View and Delete Simple Notes",
+    "action": {
+        "default_popup":"index.html"
+    }
+}
