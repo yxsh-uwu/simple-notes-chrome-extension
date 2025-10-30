@@ -5,10 +5,10 @@ A lightweight Chrome extension for taking quick notes while browsing. This proje
 ## Demo
 
 ### Empty State
-![Empty State](docs/images/nonotes.png)
+![Empty State](https://raw.githubusercontent.com/yxsh-uwu/simple-notes-chrome-extension/main/docs/images/nonotes.png)
 
 ### With Example Notes
-![With Notes](docs/images/twonotes.png)
+![With Notes](https://raw.githubusercontent.com/yxsh-uwu/simple-notes-chrome-extension/main/docs/images/twonotes.png)
 
 ## Features
 
