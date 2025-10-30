@@ -2,6 +2,14 @@
 
 A lightweight Chrome extension for taking quick notes while browsing. This project was created as a learning exercise to understand Chrome extension development.
 
+## Demo
+
+### Empty State
+![Empty State](docs/images/nonotes.png)
+
+### With Example Notes
+![With Notes](docs/images/twonotes.png)
+
 ## Features
 
 - Create and save quick notes while browsing
